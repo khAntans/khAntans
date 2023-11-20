@@ -6,20 +6,20 @@ My interest in coding started in middle school when I made my first website, but
 Front-end<br>
 <div style="display=inline-flex">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' height=50px width=50px viewBox="0 0 50 50">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' height=50px width=50px >
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' height=50px width=50px >
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg' height=50px width=50px >
 
 </div>
 <br>
 Back-end<br>
 <div style="display=inline-flex">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg'>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' height=50px width=50px >
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' height=50px width=50px >
 </div>
 Other<br>
 <div style="display=inline-flex">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg' height=50px width=50px >
 </div>
 
 ## Certificates
