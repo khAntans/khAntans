@@ -15,7 +15,7 @@ Front-end<br>
 Back-end<br>
 <div style="display=inline-flex">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' height=50px width=50px >
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' height=50px width=50px >
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel.svg' height=50px width=50px >
 </div>
 Other<br>
 <div style="display=inline-flex">
