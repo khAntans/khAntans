@@ -5,6 +5,7 @@ My interest in coding started in middle school when I made my first website, but
 🛠 Skills
 Front-end
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,threejs)](https://skillicons.dev)
+<br>
 Back-end
 [![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
 <!--
