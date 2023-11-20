@@ -33,6 +33,21 @@ Other<br>
 <li><a href="https://www.codingame.com/certification/x2eelA16lUfUirVNClWD4A" >CodinGame Certification - PHP</a></li>
 </ul>
 
-## 👨‍💻 Projects
+## 👨‍💻 Some Projects
+
+#### Rick and Morty:
+<b>Description: </b>Access the latest information on episodes from the Rick and Morty show using the Twig
+template engine within an MVC model.</br>
+<a href="">Rick and morty repo</a>
+</br>
+#### News app:
+<b>Description: </b>Stay updated with news from specific countries, utilizing the Twig template engine and Bootstrap for presentation within the
+MVC architecture facilitated by Composer.</br>
+<a href="">News app repo</a>
+</br>
+#### Bored:
+<b>Description: </b>Command-line application empowering users
+to create, save, and accomplish activities.</br>
+<a href="">bored repo</a>
 
 
