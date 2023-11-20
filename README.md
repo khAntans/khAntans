@@ -12,9 +12,10 @@ Other<br>
 [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)<br>
 
 ## Certificates
-<li href="https://www.codingame.com/certification/tqDP-wdlP6KSDSNr_hsS6g">CodinGame Certification - CODING SPEED - LEGEND</li>
-<li href="https://www.codingame.com/certification/x2eelA16lUfUirVNClWD4A" >CodinGame Certification - PHP</li>
-
+<ul>
+<li><a href="https://www.codingame.com/certification/tqDP-wdlP6KSDSNr_hsS6g">CodinGame Certification - CODING SPEED - LEGEND</a></li>
+<li><a href="https://www.codingame.com/certification/x2eelA16lUfUirVNClWD4A" >CodinGame Certification - PHP</a></li>
+</ul>
 <!--
 **khAntans/khAntans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
