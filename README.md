@@ -1,6 +1,6 @@
 ## Hi there 👋 
 ## My name is Kristofers and I am a self-taught developer.
-Hello! I'm a skilled PHP programmer with expertise in MySQL, Laravel, PHP, HTML&CSS, and more. I specialize in crafting efficient, scalable, and robust solutions for diverse web development challenges. My commitment to code craftsmanship and staying current with industry trends drives my passion for creating seamless digital experiences. 
+Hello! I'm a passionate PHP programmer with expertise in MySQL, Laravel, PHP, HTML&CSS, and more. I specialize in crafting efficient, scalable, and robust solutions for diverse web development challenges. My commitment to code craftsmanship and staying current with industry trends drives my passion for creating seamless digital experiences. 
 
 ## 🚀 Start of the journey
 My interest in coding started in middle school when I made my first website, but I really fell in love with it in university, where I worked on creative projects like art installations and websites using 3d frameworks like three.js and a-frame and also helped others in realizing ideas that required some coding.
