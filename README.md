@@ -52,5 +52,6 @@ to create, save, and accomplish activities.</br>
 
 ## 📱 Contact
 e-mail: kristofersantans@gmail.com <br>
-phone: +371 29454757
+linkedin: https://www.linkedin.com/in/kristofersharijsantans/
+facebook: https://www.facebook.com/kristofersharijs.antans
 
