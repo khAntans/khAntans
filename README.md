@@ -5,7 +5,8 @@ My interest in coding started in middle school when I made my first website, but
 ### 🛠 Skills<br>
 Front-end<br>
 <div style="display=inline-flex">
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" style="width=50px;" >
+
+<div style="width=50px;"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" style="width=50px;" ></div>
 <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/php.png">
 </div>
 <br>
