@@ -35,17 +35,17 @@ Other<br>
 
 ## 👨‍💻 Some Projects
 
-#### Rick and Morty:
+### Rick and Morty:
 <b>Description: </b>Access the latest information on episodes from the Rick and Morty show using the Twig
 template engine within an MVC model.</br>
 <a href="https://github.com/khAntans/rick-n-morty">Rick and morty repo</a>
 </br>
-#### News app:
+### News app:
 <b>Description: </b>Stay updated with news from specific countries, utilizing the Twig template engine and Bootstrap for presentation within the
 MVC architecture facilitated by Composer.</br>
 <a href="https://github.com/khAntans/News-API">News app repo</a>
 </br>
-#### Bored:
+### Bored:
 <b>Description: </b>Command-line application empowering users
 to create, save, and accomplish activities.</br>
 <a href="https://github.com/khAntans/bored">bored repo</a>
