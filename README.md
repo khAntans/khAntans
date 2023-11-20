@@ -52,6 +52,6 @@ to create, save, and accomplish activities.</br>
 
 ## 📱 Contact
 e-mail: kristofersantans@gmail.com <br>
-linkedin: https://www.linkedin.com/in/kristofersharijsantans/
+linkedin: https://www.linkedin.com/in/kristofersharijsantans/ <br>
 facebook: https://www.facebook.com/kristofersharijs.antans
 
