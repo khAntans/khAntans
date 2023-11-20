@@ -50,4 +50,7 @@ MVC architecture facilitated by Composer.</br>
 to create, save, and accomplish activities.</br>
 <a href="https://github.com/khAntans/bored">bored repo</a>
 
+## 📱 Contact
+e-mail: kristofersantans@gmail.com <br>
+phone: +371 29454757
 
