@@ -4,10 +4,12 @@ My interest in coding started in middle school when I made my first website, but
 
 ### 🛠 Skills<br>
 Front-end<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,threejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,threejs,aframe)](https://skillicons.dev)
 <br>
 Back-end<br>
 [![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)<br>
+Other<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode,phpstorm,git)](https://skillicons.dev)<br>
 <!--
 **khAntans/khAntans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
