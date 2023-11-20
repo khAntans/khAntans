@@ -6,7 +6,7 @@ My interest in coding started in middle school when I made my first website, but
 Front-end<br>
 <div style="display=inline-flex">
 
-<div style="width=50px;"><svg src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" viewBox="0 0 50 50" ></div>
+<svg src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" viewBox="0 0 50 50" style="width: 50px; height: 50px;">
 <img src="https://github.com/hussainweb/hussainweb/blob/main/icons/php.png">
 </div>
 <br>
