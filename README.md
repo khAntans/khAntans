@@ -5,14 +5,22 @@ My interest in coding started in middle school when I made my first website, but
 ### 🛠 Skills<br>
 Front-end<br>
 <div style="display=inline-flex">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg'
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg'>
 
 </div>
 <br>
 Back-end<br>
-
+<div style="display=inline-flex">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg'>
+</div>
 Other<br>
-
+<div style="display=inline-flex">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg'>
+</div>
 
 ## Certificates
 <ul>
