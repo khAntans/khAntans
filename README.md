@@ -2,8 +2,11 @@
 ## My name is Kristofers and I am a self-taught developer.
 My interest in coding started in middle school when I made my first website, but I really fell in love with it in university, where I worked on creative projects like art installations and websites using 3d frameworks like three.js and a-frame and also helped others in realizing ideas that required some coding.
 
-
-
+🛠 Skills
+Front-end
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,threejs)](https://skillicons.dev)
+Back-end
+[![My Skills](https://skillicons.dev/icons?i=php,laravel)](https://skillicons.dev)
 <!--
 **khAntans/khAntans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
