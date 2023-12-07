@@ -13,6 +13,7 @@ Front-end<br>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' height=50px width=50px >
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' height=50px width=50px >
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg' height=50px width=50px >
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/tailwind-plain.svg' height=50px width=50px >
 
 </div>
 <br>
@@ -35,6 +36,9 @@ Other<br>
 
 ## 👨‍💻 Some Projects
 
+### Article app:
+<b>Description: </b>CRUD app using MySQL as the database and TailwindCSS and Twig for the presentation. Implements PHP-DI for modularity.</br>
+<a href="https://github.com/khAntans/articles-db">article app repo</a>
 ### Rick and Morty:
 <b>Description: </b>Access the latest information on episodes from the Rick and Morty show using the Twig
 template engine within an MVC model.</br>
@@ -45,10 +49,6 @@ template engine within an MVC model.</br>
 MVC architecture facilitated by Composer.</br>
 <a href="https://github.com/khAntans/News-API">News app repo</a>
 </br>
-### Bored:
-<b>Description: </b>Command-line application empowering users
-to create, save, and accomplish activities.</br>
-<a href="https://github.com/khAntans/bored">bored repo</a>
 
 ## 📱 Contact
 e-mail: kristofersantans@gmail.com <br>
