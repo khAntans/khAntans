@@ -13,7 +13,7 @@ Front-end<br>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' height=50px width=50px >
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' height=50px width=50px >
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg' height=50px width=50px >
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/tailwind-plain.svg' height=50px width=50px >
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg' height=50px width=50px >
 
 </div>
 <br>
