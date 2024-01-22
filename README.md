@@ -2,7 +2,7 @@
 ## My name is Kristofers and I am a self-taught developer.
 Hello! I'm a passionate PHP programmer with expertise in MySQL, Laravel, PHP, HTML&CSS, and more. I specialize in crafting efficient, scalable, and robust solutions for diverse web development challenges. My commitment to code craftsmanship and staying current with industry trends drives my passion for creating seamless digital experiences. 
 
-## 🛠 Skills<br>
+## 🛠 Tools<br>
 Front-end<br>
 <div style="display=inline-flex">
 <img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg' height=50px width=50px viewBox="0 0 50 50">
