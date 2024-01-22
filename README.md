@@ -2,39 +2,34 @@
 ## My name is Kristofers and I am a self-taught developer.
 Hello! I'm a passionate PHP programmer with expertise in MySQL, Laravel, PHP, HTML&CSS, and more. I specialize in crafting efficient, scalable, and robust solutions for diverse web development challenges. My commitment to code craftsmanship and staying current with industry trends drives my passion for creating seamless digital experiences. 
 
-## 🚀 Start of the journey
-My interest in coding started in middle school when I made my first website, but I really fell in love with it in university, where I worked on creative projects like art installations and websites using 3d frameworks like three.js and a-frame and also helped others in realizing ideas that required some coding.
-
-### 🛠 Skills<br>
+## 🛠 Skills<br>
 Front-end<br>
 <div style="display=inline-flex">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' height=50px width=50px viewBox="0 0 50 50">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' height=50px width=50px >
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' height=50px width=50px >
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg' height=50px width=50px >
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg' height=50px width=50px >
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg' height=50px width=50px viewBox="0 0 50 50">
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg' height=50px width=50px >
 
 </div>
 <br>
 Back-end<br>
 <div style="display=inline-flex">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg' height=50px width=50px >
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg' height=50px width=50px >
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/laravel/art/5a8325b064634b900f25dbb6f1cafd888b2d2211/logo-mark/5%20svg/3%20rgb/1%20Full%20Color/laravel-mark-rgb-red.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg' height=50px width=50px >
 </div>
 Other<br>
 <div style="display=inline-flex">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg' height=50px width=50px >
+<img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/JetBrains/logos/4647ee6a5f4785ed1c40ad4acca24416859468ed/web/phpstorm/phpstorm.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg' height=50px width=50px >
+<img src='https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain.svg' height=50px width=50px >
 </div>
 
-## 📖 Certificates
-<ul>
-<li><a href="https://www.codingame.com/certification/tqDP-wdlP6KSDSNr_hsS6g">CodinGame Certification - CODING SPEED - LEGEND</a></li>
-<li><a href="https://www.codingame.com/certification/x2eelA16lUfUirVNClWD4A" >CodinGame Certification - PHP</a></li>
-</ul>
-
-## 👨‍💻 Select Projects
+## 👨‍💻 Projects
 
 ### Small bank:
 <b>Description: </b>Small bank made with Laravel 10. Allows the user to create debit and investment account, send money and view transaction history.</br>
