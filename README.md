@@ -34,8 +34,12 @@ Other<br>
 <li><a href="https://www.codingame.com/certification/x2eelA16lUfUirVNClWD4A" >CodinGame Certification - PHP</a></li>
 </ul>
 
-## 👨‍💻 Some Projects
+## 👨‍💻 Select Projects
 
+### Small bank:
+<b>Description: </b>Small bank made with Laravel 10. Allows the user to create debit and investment account, send money and view transaction history.</br>
+<a href="https://github.com/khAntans/small-bank-project">Small bank repo</a>
+</br>
 ### Article app:
 <b>Description: </b>CRUD app using MySQL as the database and TailwindCSS and Twig for the presentation. Implements PHP-DI for modularity.</br>
 <a href="https://github.com/khAntans/articles-db">article app repo</a>
@@ -44,11 +48,7 @@ Other<br>
 template engine within an MVC model.</br>
 <a href="https://github.com/khAntans/rick-n-morty">Rick and morty repo</a>
 </br>
-### News app:
-<b>Description: </b>Stay updated with news from specific countries, utilizing the Twig template engine and Bootstrap for presentation within the
-MVC architecture facilitated by Composer.</br>
-<a href="https://github.com/khAntans/News-API">News app repo</a>
-</br>
+
 
 ## 📱 Contact
 e-mail: kristofersantans@gmail.com <br>
